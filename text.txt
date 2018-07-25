@@ -1,2 +1,3 @@
 Another test file
 Second line - second commit
+Third line - third commit
