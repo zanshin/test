@@ -5,6 +5,12 @@ PRs associated with it.
 ## Steps to rename
 * Rename the local branch
 
+If you are on the branch you want to rename:
+
+    `git branch -m new-name`
+
+If you are on a different branch:
+
     git branch -m old-name new-name
 
 * Delete the old-name remote branch and push the new-name local branch
